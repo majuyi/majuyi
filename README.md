@@ -5,9 +5,3 @@
   </samp>
 </p>
 <br>
-<samp>
-  <p align="center">
-    ════ ⋆★⋆ ════<br>
-    <a href="https://github.com/majuyi/majuyi">https://github.com/majuyi</a>
-  </p>
-</samp>
